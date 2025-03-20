@@ -21,7 +21,10 @@ The dataset contains two sheets:
 ✅ Found key sales trends over time to understand peak periods 
 ✅ Visualized customer behaviour by identifying those with the highest order count
 ## Dashboard Preview
- 
+ ## 📷 Dashboard Preview
+[Click here to view the full dashboard](./Superstore_Dashboard.pdf)
+[Click here to view the full dashboard](./folder-name/Superstore_Dashboard.pdf)
+
 ## Learning Outcomes
 This project helped enhance my skills in:
 •	Power BI Visualizations
