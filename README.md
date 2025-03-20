@@ -4,11 +4,12 @@
 This project presents a beginner-friendly Power BI Dashboard built using the Superstore Dataset. The analysis focuses on delivering key business insights through simple yet effective visuals without complex DAX calculations or tooltips.
 
 ##  Key Features
-**•	Monthly Sales Trend Analysis**
-**•	Top 5 Best and Worst Performing Products**
-**•	Sales by Category with Conditional Formatting**
-**•	Customer with Highest Order (Donut Chart)**
-**•	Profit by Region Analysis**
+•	Monthly Sales Trend Analysis
+•	Top 5 Best and Worst Performing Products
+•	Sales by Category with Conditional Formatting
+•	Customer with Highest Order (Donut Chart)
+•	Profit by Region Analysis
+
 
 ##  Dataset Information
 The dataset contains two sheets:
