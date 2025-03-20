@@ -14,7 +14,7 @@ This project presents a beginner-friendly Power BI Dashboard built using the Sup
 ##  Dataset Information
 The dataset contains two sheets:
 •	**Orders:** Includes customer orders, product details, sales, and profit information.
-•	**Returns:**Lists returned orders with respective order IDs.
+•	**Returns:** Lists returned orders with respective order IDs.
 
 ##  Power BI Techniques Used
 •	Bar Chart, Donut Chart, and Table Visuals for easy-to-understand insights
@@ -22,14 +22,13 @@ The dataset contains two sheets:
 •	Filters and Sorting for better data exploration
 
 ##  Insights Gained
-✅ Identified the Top 5 Best and Worst Performing Products
- ✅ Highlighted the Most Profitable Regions 
-✅ Found key sales trends over time to understand peak periods 
-✅ Visualized customer behaviour by identifying those with the highest order count
+   ✅ Identified the Top 5 Best and Worst Performing Products
+   ✅ Highlighted the Most Profitable Regions 
+   ✅ Found key sales trends over time to understand peak periods 
+   ✅ Visualized customer behaviour by identifying those with the highest order count
 
 ## Dashboard Preview
- ## 📷 Dashboard Preview
-## 📷 Dashboard Preview
+ 
 [ Click here to view the full dashboard (PDF)](https://github.com/Shanthi777827/Superstore-Data-Analysis/raw/main/Superstore%20Data%20Analysis.pdf)
 
 
