@@ -28,7 +28,7 @@ The dataset contains two sheets:
 
 ## Dashboard Preview
  ## 📷 Dashboard Preview
-[Click here to view the full dashboard](./Superstore_Dashboard.pdf)
+[Click here to view the full dashboard]"C:\Users\steph\Downloads\Superstore Data Analysis.pdf"
 
 ## Learning Outcomes
 This project helped enhance my skills in:
