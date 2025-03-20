@@ -4,11 +4,11 @@
 This project presents a beginner-friendly Power BI Dashboard built using the Superstore Dataset. The analysis focuses on delivering key business insights through simple yet effective visuals without complex DAX calculations or tooltips.
 
 ##  Key Features
-- •	Monthly Sales Trend Analysis
-- •	Top 5 Best and Worst Performing Products
-- •	Sales by Category with Conditional Formatting
-- •	Customer with Highest Order (Donut Chart)
-- •	Profit by Region Analysis
+- 	Monthly Sales Trend Analysis
+- 	Top 5 Best and Worst Performing Products
+- 	Sales by Category with Conditional Formatting
+- 	Customer with Highest Order (Donut Chart)
+- 	Profit by Region Analysis
 
 
 ##  Dataset Information
@@ -17,15 +17,15 @@ This project presents a beginner-friendly Power BI Dashboard built using the Sup
 2	**Returns:** Lists returned orders with respective order IDs.
 
 ##  Power BI Techniques Used
-- •	Bar Chart, Donut Chart, and Table Visuals for easy-to-understand insights
-- •	Conditional Formatting to highlight high and low profit values
-- •	Filters and Sorting for better data exploration
+ - Bar Chart, Donut Chart, and Table Visuals for easy-to-understand insights
+ -	Conditional Formatting to highlight high and low profit values
+- Filters and Sorting for better data exploration
 
 ##  Insights Gained
-   1 Identified the Top 5 Best and Worst Performing Products
-   2 Highlighted the Most Profitable Regions 
-   3 Found key sales trends over time to understand peak periods 
-   4 Visualized customer behaviour by identifying those with the highest order count
+   1. Identified the Top 5 Best and Worst Performing Products
+   2. Highlighted the Most Profitable Regions 
+   3. Found key sales trends over time to understand peak periods 
+   4. Visualized customer behaviour by identifying those with the highest order count
 
 ## Dashboard Preview
  
@@ -34,9 +34,9 @@ This project presents a beginner-friendly Power BI Dashboard built using the Sup
 
 ## Learning Outcomes
 This project helped enhance my skills in:
-- •	Power BI Visualizations
-- •	Data Cleaning and Transformation
-- •	Creating Interactive Dashboard
+- 	Power BI Visualizations
+- 	Data Cleaning and Transformation
+- 	Creating Interactive Dashboard
 
 ## Contact
 If you have any questions or feedback, feel free to reach out! 😊
