@@ -28,7 +28,9 @@ The dataset contains two sheets:
 
 ## Dashboard Preview
  ## 📷 Dashboard Preview
-https://github.com/Shanthi777827/Superstore-Data-Analysis/commits/main/Superstore%20Data%20Analysis.pdf
+## 📷 Dashboard Preview
+[ Click here to view the full dashboard (PDF)](https://github.com/Shanthi777827/Superstore-Data-Analysis/raw/main/Superstore%20Data%20Analysis.pdf)
+
 
 ## Learning Outcomes
 This project helped enhance my skills in:
