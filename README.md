@@ -1,5 +1,5 @@
 # Superstore Data Analysis using Power BI
-## 📋 Project Overview
+## 📋  Overview
 This project presents a beginner-friendly Power BI Dashboard built using the Superstore Dataset. The analysis focuses on delivering key business insights through simple yet effective visuals without complex DAX calculations or tooltips.
 ## 📊 Key Features
 •	Monthly Sales Trend Analysis
