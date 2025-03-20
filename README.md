@@ -13,8 +13,8 @@ This project presents a beginner-friendly Power BI Dashboard built using the Sup
 
 ##  Dataset Information
 ## The dataset contains two sheets:
-1 	**Orders:** Includes customer orders, product details, sales, and profit information.
-2	**Returns:** Lists returned orders with respective order IDs.
+1.	**Orders:** Includes customer orders, product details, sales, and profit information.
+2. 	**Returns:** Lists returned orders with respective order IDs.
 
 ##  Power BI Techniques Used
  - Bar Chart, Donut Chart, and Table Visuals for easy-to-understand insights
